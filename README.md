@@ -19,9 +19,6 @@ _(vai aparecer aqui depois que eu publicar no GitHub Pages)_
 
 fut-pelada-web/ ├─ src/ │ ├─ index.html │ ├─ styles.css │ └─ app.js ├─ .gitignore ├─ LICENSE └─ README.md
 
-bash
-Copiar
-Editar
 
 ## Como Rodar Localmente
 
